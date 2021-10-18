@@ -9,4 +9,4 @@ In this project, the 3 main sections explored are:
 
 The summary of this project is presented in "Summary_PPT.pdf"
 
-A detailed description of this project is discussed in: 
+A description of this sections as well as my thoughts and opinions can be found at: https://moinakpyne.medium.com/this-is-why-data-product-management-is-easier-than-it-sounds-1a10d9934a4e
